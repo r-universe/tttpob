@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "ArchR"]
 	path = ArchR
-	url = https://github.com/GreeningLab/ArchR
+	url = https://github.com/GreenleafLab/ArchR
