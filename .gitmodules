@@ -5,15 +5,3 @@
 [submodule "ArchR"]
 	path = ArchR
 	url = https://github.com/GreenleafLab/ArchR
-[submodule "chromVARmotifs"]
-	path = chromVARmotifs
-	url = https://github.com/GreenleafLab/chromVARmotifs
-	registered = false
-[submodule "monocle3"]
-	path = monocle3
-	url = https://github.com/cole-trapnell-lab/monocle3
-	registered = false
-[submodule "presto"]
-	path = presto
-	url = https://github.com/immunogenomics/presto
-	registered = false
